@@ -1,0 +1,15 @@
+M?c tiêu: giúp các b?n sinh viên(Tru?c m?t sv tru?ng công nghi?p) có th? mang nh?ng món d? cu c?a mình(Sách, Giáo án, Tài li?u...) không còn s? d?ng 
+n?a mang lên d?i ho?c d? l?i cho nh?ng ngu?i c?n dùng.
+List các ch?c nang chính trong v1:
++Rao d?i d?(Ch?c nang chính): khi có d? c?n d?i ngu?i dùng có th? t?o ra m?t m?t hàng trên trang web. Ð? nh?ng ngu?i khác c?n có th? xem xét và có th? d?i l?y món d? dó.
+Khi dang c?n ghi chú thông tin so v? món d?. Cung c?p m?t s? thông tin có th? liên l?c v?i ngu?i dang n?u không là thành viên dang kí. Khi dang có th? nói so qua v? v?t mình
+ mu?n nh?n l?i khi d?i(có th? b? tr?ng), ? du?i có comment có th? trao d?i thêm. 
++Tìm d?(Ch?c nang chính): Tìm món d? mình c?n theo di?u ki?n cho tru?c. Ph?n này chua c?n d?u tu nhi?u s? phát tri?n hon n?u có nhi?u ngu?i dùng
++Cho d? (Bàn b?c thêm): Ph?n này s? admin trang s? giúp l?y nh?ng món d? ngu?i dùng cho d? g?i l?i nh?ng ngu?i c?n.Ví d? nhu quàn áo sách c? cho các
+ trung tâm h? tr? ngu?i nghèo
++K?t h?p login Facebook, google..(Ch?c nang chính)
++Ði?m cho ngu?i s? d?ng(Ch?c nang ph?): bàn b?c thêm
+============================================
+Có j anh ?? xu?t thêm ha
+
+
